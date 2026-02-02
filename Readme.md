@@ -93,18 +93,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Main Scanner Interface
-
-**A powerful, single-file GUI tool for detecting SSRF vulnerabilities in bug bounty programs**
-
----
-
-## 📸 Screenshots
-
 <div align="center">
 
 ### Main Scanner Interface
@@ -115,6 +103,8 @@
 ### Payload Generator
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd130c2f-4938-4d22-8b6d-2614511626eb" />
+
+</div align="center">
 
 </div>
 
