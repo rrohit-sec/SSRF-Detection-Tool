@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SSRF Hunter Pro ⚡
+# ⚡ SSRF Hunter ⚡
 
 ### Advanced Server-Side Request Forgery Detection Framework
 
@@ -131,7 +131,7 @@
 
 ```bash
 # Clone the repository
-git clone <https://github.com/yourusername/ssrf-hunter-pro.git>
+git clone https://github.com/rrohit-sec/SSRF-Detection-Tool.git
 
 # Navigate to directory
 cd 
@@ -144,7 +144,7 @@ python ssrf_hunter.py
 ### One-Liner Installation
 
 ```bash
-git clone <https://github.com/yourusername/ssrf-hunter-pro.git> && cd ssrf-hunter-pro && python ssrf_hunter.py
+git clone https://github.com/rrohit-sec/SSRF-Detection-Tool.git && cd ssrf-hunter-pro && python ssrf_hunter.py
 
 ```
 
