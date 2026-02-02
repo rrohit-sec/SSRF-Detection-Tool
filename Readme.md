@@ -31,7 +31,7 @@
 
 ## 🎯 About
 
-**SSRF Hunter Pro** is a comprehensive, all-in-one Server-Side Request Forgery (SSRF) detection tool designed specifically for bug bounty hunters and security researchers. Built with a sleek hacker-themed GUI, it combines multiple detection techniques, bypass methods, and callback infrastructure into a single, portable Python file.
+**SSRF Hunter** is a comprehensive, all-in-one Server-Side Request Forgery (SSRF) detection tool designed specifically for bug bounty hunters and security researchers. Built with a sleek hacker-themed GUI, it combines multiple detection techniques, bypass methods, and callback infrastructure into a single, portable Python file.
 
 ### Why SSRF Hunter Pro?
 
@@ -131,7 +131,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/rrohit-sec/SSRF-Detection-Tool.git
+git clone https://github.com/rrohit-sec/SSRF-Hunter.git
 
 # Navigate to directory
 cd 
@@ -144,7 +144,7 @@ python ssrf_hunter.py
 ### One-Liner Installation
 
 ```bash
-git clone https://github.com/rrohit-sec/SSRF-Detection-Tool.git && cd ssrf-hunter-pro && python ssrf_hunter.py
+git clone https://github.com/rrohit-sec/SSRF-Hunter.git && cd SSRF-Hunter && python ssrf_hunter.py
 
 ```
 
