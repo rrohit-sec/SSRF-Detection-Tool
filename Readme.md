@@ -579,37 +579,6 @@ git push origin feature/amazing-feature
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.notion.so/LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 SSRF Hunter Pro
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-```
-
----
-
 ## 🙏 Acknowledgments
 
 - OWASP SSRF Prevention Cheat Sheet
@@ -621,57 +590,11 @@ SOFTWARE.
 
 ## 📬 Contact
 
-- **GitHub Issues**: [Report Bug](https://github.com/yourusername/ssrf-hunter-pro/issues)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: [security@yourdomain.com](mailto:security@yourdomain.com)
+- **GitHub Issues**: [Report Bug](https://github.com/rrohit-sec/SSRF-Hunter/issues)
 
 ---
-
-<div align="center">
-
-### ⭐ Star this repository if you find it useful!
-
-**Made with ❤️ for the Bug Bounty Community**
-
-[GitHub Stars](https://img.shields.io/github/stars/yourusername/ssrf-hunter-pro?style=social)
-
-[Follow](https://img.shields.io/twitter/follow/yourusername?style=social)
 
 </div>
-
-```
-
----
-
-## 📁 Additional Files to Create
-
-### LICENSE
-
-```
-
-MIT License
-
-Copyright (c) 2024 SSRF Hunter Pro
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-```
 
 ### .gitignore
 
