@@ -127,17 +127,6 @@ pip install requests urllib3 tkinter
 
 ```
 
-### Docker Installation (Optional)
-
-```bash
-# Build Docker image
-docker build -t ssrf-detector .
-
-# Run container with display forwarding (Linux/Mac)
-docker run -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix ssrf-detector
-
-```
-
 ---
 
 ## 📖 Usage
